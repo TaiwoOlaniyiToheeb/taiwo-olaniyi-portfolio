@@ -17,13 +17,13 @@ To install, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/TaiwoOlaniyiToheeb/taiwo-olaniyi-portfolio.git
+sudo git clone https://github.com/TaiwoOlaniyiToheeb/taiwoolaniyitoheeb.github.io.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/TaiwoOlaniyiToheeb/taiwo-olaniyi-portfolio.git
+git clone https://github.com/TaiwoOlaniyiToheeb/taiwoolaniyitoheeb.github.io.git
 ```
 
 ## Contact
